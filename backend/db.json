@@ -25,7 +25,7 @@
             "title": "Mid-Back Black Leather Executive Swivel Office Chair",
             "image": "https://www.modishstore.com/cdn/shop/products/BT-9177-BK-GG.jpg?v=1495515393&width=533",
             "description": "This mid-back executive office chair combines comfort and style. It features a contoured seat, padded arms, and built-in lumbar support for all-day comfort.",
-            "price": "$149.99"
+            "price": 149.99
           },
           {
             "id": 4,
@@ -34,7 +34,7 @@
             "title": "Mid-Back Black Mesh Swivel Task Office Chair",
             "image": "https://www.modishstore.com/cdn/shop/products/SD-SDM-2240-5-BK-GG.jpg?v=1495512247&width=533",
             "description": "Stay cool and comfortable while working with this mid-back mesh office chair. It features a breathable mesh back, padded seat, and adjustable height and tilt for personalized support.",
-            "price": "$99.99"
+            "price": 99.99
           },
           {
             "id": 5,
@@ -43,7 +43,7 @@
             "title": "Black Leather Executive Side Reception Chair",
             "image": "https://www.modishstore.com/cdn/shop/products/BT-983-BK-GG.jpg?v=1495515169&width=533",
             "description": "Welcome guests in style with this executive reception chair. Upholstered in black LeatherSoft material and featuring padded armrests, it offers both comfort and sophistication.",
-            "price": "$129.99"
+            "price": 129.99
           },
           {
             "id": 6,
@@ -52,7 +52,7 @@
             "title": "Black LeatherSoft Executive Office Chair with Padded Loop Arms",
             "image": "https://www.modishstore.com/cdn/shop/products/CI-360-BK-GG.jpg?v=1495516553&width=533",
             "description": "Enhance your office with this executive office chair. It boasts a high back, built-in lumbar support, and padded loop arms for added comfort and support.",
-            "price": "$199.99"
+            "price": 199.99
           },
           {
             "id": 7,
@@ -61,7 +61,7 @@
             "title": "White Plastic Dining Side Chair",
             "image": "https://www.modishstore.com/cdn/shop/products/EEI-2223-WHE_4.jpg?v=1649084237&width=533",
             "description": "Add a touch of modern elegance to your dining space with this white plastic dining side chair. Its sleek design and durable construction make it perfect for both indoor and outdoor use.",
-            "price": "$69.99"
+            "price": 69.99
           },
           {
             "id": 8,
@@ -70,7 +70,7 @@
             "title": "Yellow Plastic Dining Side Chair",
             "image": "https://www.modishstore.com/cdn/shop/products/EEI-121-YLW_6.jpg?v=1649084542&width=533",
             "description": "Brighten up your dining area with this vibrant yellow plastic dining side chair. With its stackable design and easy-to-clean surface, it's both stylish and practical.",
-            "price": "$59.99"
+            "price": 59.99
           },
           {
             "id": 9,
@@ -79,7 +79,7 @@
             "title": "Brown Upholstered Dining Side Chair",
             "image": "https://www.modishstore.com/cdn/shop/products/EEI-2233-WHE_4.jpg?v=1649132425&width=533",
             "description": "Elevate your dining experience with this brown upholstered dining side chair. Its padded seat and back provide comfort, while its wooden legs add a touch of warmth to your decor.",
-            "price": "$89.99"
+            "price": 89.99
           },
           {
             "id": 10,
@@ -88,7 +88,7 @@
             "title": "White Plastic Dining Armchair",
             "image": "https://www.modishstore.com/cdn/shop/products/EEI-2221-WHE_4.jpg?v=1649085332&width=533",
             "description": "Dine in style with this white plastic dining armchair. Its ergonomic design and sturdy construction make it a practical and comfortable choice for any dining space.",
-            "price": "$79.99"
+            "price": 79.99
           },
           {
             "id": 11,
@@ -97,7 +97,7 @@
             "title": "Pink Velvet Dining Chair",
             "image": "https://www.modishstore.com/cdn/shop/products/EEI-3508-PNK_6.jpg?v=1635272470&width=533",
             "description": "Add a pop of color to your dining room with this pink velvet dining chair. Its soft velvet upholstery and gold metal legs create a luxurious and elegant look.",
-            "price": "$129.99"
+            "price": 129.99
           },
           {
             "id": 12,
@@ -106,7 +106,7 @@
             "title": "Green Velvet Dining Chair",
             "image": "https://www.modishstore.com/cdn/shop/products/EEI-3509-GRN_6.jpg?v=1630066827&width=533",
             "description": "Bring a touch of sophistication to your dining area with this green velvet dining chair. Its plush upholstery and sleek design make it a stylish and comfortable seating option.",
-            "price": "$139.99"
+            "price": 139.99
           },
           {
             "id": 13,
@@ -115,7 +115,7 @@
             "title": "Teak Dining Chair Set of 2",
             "image": "https://www.modishstore.com/cdn/shop/products/EEI-2745-TEA-SET_5.jpg?v=1649074961&width=533",
             "description": "Upgrade your dining space with this set of two teak dining chairs. Crafted from solid teak wood, these chairs add a touch of natural beauty to any room.",
-            "price": "$299.99"
+            "price": 299.99
           },
           {
             "id": 14,
@@ -124,7 +124,7 @@
             "title": "Gold Velvet Accent Chair",
             "image": "https://www.modishstore.com/cdn/shop/products/EEI-4630-GLD-EME_1.jpg?v=1621328663&width=533",
             "description": "Make a statement in your living room with this luxurious gold velvet accent chair. Its elegant design and plush upholstery create a sophisticated look.",
-            "price": "$249.99"
+            "price": 249.99
           },
           {
             "id": 15,
@@ -133,7 +133,7 @@
             "title": "Gray Upholstered Armchair",
             "image": "https://www.modishstore.com/cdn/shop/products/EEI-4622-GRY_7.jpg?v=1621657745&width=533",
             "description": "Add a cozy touch to your living space with this gray upholstered armchair. Its oversized design and soft fabric make it perfect for relaxing after a long day.",
-            "price": "$299.99"
+            "price": 299.99
           },
           {
             "id": 16,
@@ -142,7 +142,7 @@
             "title": "Dusty Blue Velvet Lounge Chair",
             "image": "https://www.modishstore.com/cdn/shop/files/EEI-5042-DUS_8.jpg?v=1694604447&width=533",
             "description": "Create a serene atmosphere in your living room with this dusty blue velvet lounge chair. Its curved design and plush cushioning provide both style and comfort.",
-            "price": "$349.99"
+            "price": 349.99
           },
           {
             "id": 17,
@@ -151,7 +151,7 @@
             "title": "Light Green and Beige Lounge Chair",
             "image": "https://www.modishstore.com/cdn/shop/products/EEI-4027-LGR-BEI_1.jpg?v=1641909762&width=533",
             "description": "Bring a touch of nature indoors with this light green and beige lounge chair. Its organic color palette and modern design make it a versatile addition to any living space.",
-            "price": "$279.99"
+            "price": 279.99
           },
           {
             "id": 18,
@@ -160,7 +160,7 @@
             "title": "Gray Upholstered Rocking Chair",
             "image": "https://www.modishstore.com/cdn/shop/products/EEI-4421-GRY_6.jpg?v=1604391776&width=533",
             "description": "Relax in style with this gray upholstered rocking chair. Its sturdy construction and comfortable design make it perfect for enjoying quiet moments in your home.",
-            "price": "$199.99"
+            "price": 199.99
           }
     ]
 }
