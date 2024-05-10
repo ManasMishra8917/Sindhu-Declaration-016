@@ -2,32 +2,51 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
+import { Chairs } from './pages/Chairs'
+import { Navbar } from './components/Navbar'
+import Cart from './components/Cart'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [show, setShow] = useState(true);
+	const [cart , setCart] = useState([]);
+	const [warning, setWarning] = useState(false);
+
+	const handleClick = (item)=>{
+    const isPresent = cart.find(product => product.id === item.id);
+    if (isPresent) {
+        setWarning(true);
+        setTimeout(() => {
+            setWarning(false);
+        }, 2000);
+        return;
+    }
+    setCart([...cart, { ...item, amount: 1 }]);
+  }
+
+	const handleChange = (item, d) =>{
+		let ind = -1;
+		cart.forEach((data, index)=>{
+			if (data.id === item.id)
+				ind = index;
+		});
+		const tempArr = cart;
+		tempArr[ind].amount += d;
+		
+		if (tempArr[ind].amount === 0)
+			tempArr[ind].amount = 1;
+		setCart([...tempArr])
+	}
 
   return (
     <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+    <Navbar size={cart.length} setShow={setShow} />
+    
+     {
+			show ? <Chairs handleClick={handleClick} /> : <Cart cart={cart} setCart={setCart} handleChange={handleChange} />
+		}
+		{
+			warning && <div className='warning'>Item is already added to your cart</div>
+		}
     </>
   )
 }
