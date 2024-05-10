@@ -7,7 +7,7 @@
             "title": "Executive Office Chair with Black LeatherSoft Upholstery",
             "image": "https://www.modishstore.com/cdn/shop/products/GO-908A-BK-GG.jpg?v=1495516750&width=533",
             "description": "This executive office chair features comfortable Black LeatherSoft upholstery, built-in lumbar support, and padded arms for extra comfort during long work hours.",
-            "price": "$189.99"
+            "price": 189.99
           },
           {
             "id": 2,
@@ -16,7 +16,7 @@
             "title": "High Back Black Leather Executive Swivel Office Chair",
             "image": "https://www.modishstore.com/cdn/shop/products/GO-2149-LEA-GG.jpg?v=1495514472&width=533",
             "description": "Upgrade your workspace with this high-back executive office chair. It features a plush padded seat and back, along with built-in lumbar support for optimal comfort.",
-            "price": "$249.99"
+            "price": 249.99
           },
           {
             "id": 3,
