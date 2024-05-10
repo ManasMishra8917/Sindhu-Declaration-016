@@ -2,12 +2,13 @@
 import { useState } from 'react';
 import axios from 'axios';
 
+export const baseurl="https://sindhu-declaration-016.onrender.com/data";
 const useFetchData = () => {
     const [data, setData] = useState([]);
 
-    const fetchData = async () => {
+    const fetchData = async (url) => {
         try {
-            const result = await axios.get('https://sindhu-declaration-016.onrender.com/data');
+            const result = await axios.get(url);
             setData(result.data);
     
         } catch (error) {

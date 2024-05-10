@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import useFetchData from '../customhooks/useFetchData';
+import useFetchData, { baseurl } from '../customhooks/useFetchData';
 import { Sidebar } from '../components/Sidebar';
 import { Card, Image, Stack, Heading, Text, Divider, ButtonGroup, Button, CardFooter } from '@chakra-ui/react';
 
@@ -8,7 +8,7 @@ export const Chairs = ({handleClick}) => {
     const [filteredData, setFilteredData] = useState([]); // State to store filtered data
 
     useEffect(() => {
-        fetchData();
+        fetchData(baseurl);
     }, []);
 
     // Filter function to filter data based on checkbox selections
