@@ -1,0 +1,72 @@
+.footer {
+    background-color: #404040;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    z-index:100;
+  }
+  .ft1
+  {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+.ft2
+{
+    width: 100%;
+    height: 10vh;
+    background-color: #323232;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.f1
+{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.f2
+{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-top: 20px;
+    margin-left: 150px;
+}
+.f3
+{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.box2 ,.box3
+{
+    margin-top: 20px;
+
+}
+.box3
+{
+    margin-right: 50px;
+}
+.f2p
+{
+    text-decoration: underline;
+    text-decoration-color: white;
+    cursor: pointer;
+}
+.box2
+{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.box3
+{
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}

@@ -1,5 +1,6 @@
 import React from 'react'
 import "../styles/Navbar.css"
+import HeaderComponent from './HeaderComponent'
 
 export const Navbar = ({size, setShow}) => {
   return (
@@ -15,6 +16,8 @@ export const Navbar = ({size, setShow}) => {
                 <span>{size}</span>
             </div>
         </div>
+        
     </nav>
+   
   )
 }

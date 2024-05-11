@@ -1,0 +1,18 @@
+/* #carouselExampleCaptions
+{
+    height: 20vh;
+} */
+.carousel
+{
+    width: 100%;
+    z-index: 2000;
+    height: 60vh;
+    background-color: red;
+}
+.carousel-item
+{
+    height: 60vh;
+    background-position: center;
+    background-size: cover;
+    
+}

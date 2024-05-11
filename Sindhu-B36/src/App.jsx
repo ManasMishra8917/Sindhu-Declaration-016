@@ -5,6 +5,9 @@ import './App.css'
 import { Chairs } from './pages/Chairs'
 import { Navbar } from './components/Navbar'
 import Cart from './components/Cart'
+import HeaderComponent from './components/HeaderComponent'
+import Footer from './components/Footer'
+import CarouselComponent from './components/Carousel'
 
 function App() {
   const [show, setShow] = useState(true);
@@ -36,19 +39,32 @@ function App() {
 			tempArr[ind].amount = 1;
 		setCart([...tempArr])
 	}
-
   return (
     <>
     <Navbar size={cart.length} setShow={setShow} />
-    
+    <div>
+      <HeaderComponent />
+      {}
+    </div>
+	<div className="App">
+      <CarouselComponent />
+    </div>
+
      {
 			show ? <Chairs handleClick={handleClick} /> : <Cart cart={cart} setCart={setCart} handleChange={handleChange} />
 		}
 		{
 			warning && <div className='warning'>Item is already added to your cart</div>
 		}
+	<div>
+      {/* Your main content */}
+      <Footer />
+    </div>
+		
     </>
   )
 }
 
 export default App
+
+
