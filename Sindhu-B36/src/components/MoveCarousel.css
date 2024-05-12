@@ -1,0 +1,29 @@
+.move-carousel {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .slide {
+    display: none;
+    width: 50%;
+    height: 40vh;
+    transition: transform 1s ease;
+  }
+  
+  .slide.active {
+    display: block;
+  }
+  
+  .slide.active {
+    transform: translateX(0%);
+  }
+  
+  .slide {
+    transform: translateX(-100%);
+  }
+  .blog
+  {
+    margin-top:15px;
+    margin-left: 100px;
+  }
