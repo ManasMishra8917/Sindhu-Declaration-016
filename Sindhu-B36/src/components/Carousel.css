@@ -1,0 +1,46 @@
+/* carousel.css */
+
+.carousel-container {
+  position: relative;
+  width: 100%;
+  left: 0px; /* Adjust left position as needed */
+  overflow: hidden;
+}
+
+.carousel-inner {
+  width: 100%;
+  height: 600px; /* Adjust height as needed */
+}
+
+.carousel-item {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+.active {
+  opacity: 1;
+}
+
+.arrowprev,
+.arrownext {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(255, 255, 255, 0.5);
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 24px;
+  padding: 10px;
+  z-index: 1;
+}
+
+.arrowprev{
+  left: 200px;
+}
+
+.arrownext {
+  right: 200px; /* Adjust right position as needed */
+}

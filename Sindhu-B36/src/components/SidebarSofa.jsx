@@ -7,7 +7,7 @@ import {
     SliderMark,
   } from '@chakra-ui/react';
 
-export const Sidebar = ({ filterData }) => {
+export const SidebarSofa = ({ filterData }) => {
     const [checkedItems, setCheckedItems] = useState({}); // State to store checked checkboxes
 
     // Function to handle checkbox change
@@ -32,20 +32,20 @@ export const Sidebar = ({ filterData }) => {
             zIndex: 3,
             backgroundColor:"#dfa66d"
         }}>
-            <h2 style={{ marginBottom: "20px" ,fontSize:"20px",fontWeight:"bold"}}>Chairs</h2>
+            <h2 style={{ marginBottom: "20px" ,fontSize:"20px",fontWeight:"bold"}}>Sofas</h2>
             <div style={{ marginBottom: "20px" }}>
                 <h3>Category</h3>
                 <div>
-                    <input type="checkbox" id="officeChairs" name="officeChairs" onChange={handleCheckboxChange} />
-                    <label htmlFor="officeChairs">Office Chairs</label>
+                    <input type="checkbox" id="LivingSofas" name="LivingSofas" onChange={handleCheckboxChange} />
+                    <label htmlFor="LivingSofas">Living Sofas</label>
                 </div>
                 <div>
-                    <input type="checkbox" id="diningChairs" name="diningChairs" onChange={handleCheckboxChange} />
-                    <label htmlFor="diningChairs">Dining Chairs</label>
+                    <input type="checkbox" id="SofaBeds" name="SofaBeds" onChange={handleCheckboxChange} />
+                    <label htmlFor="SofaBeds">Sofa Beds</label>
                 </div>
                 <div>
-                    <input type="checkbox" id="livingChairs" name="livingChairs" onChange={handleCheckboxChange} />
-                    <label htmlFor="livingChairs">Living Chairs</label>
+                    <input type="checkbox" id="ModularSofas" name="ModularSofas" onChange={handleCheckboxChange} />
+                    <label htmlFor="ModularSofas">Modular Sofas</label>
                 </div>
             </div>
             <div>
