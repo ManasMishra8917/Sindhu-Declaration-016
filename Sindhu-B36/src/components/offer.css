@@ -1,0 +1,31 @@
+.offer-container {
+    margin-top: 40px;
+  }
+  
+  .offer-box {
+    width: 30%;
+    height: 50vh;
+    gap: 10px;
+    background-color: #f0f0f0;
+    margin: 10px;
+    border-radius: 20px;
+    margin-left: 7%;
+  }
+
+  .box
+  {
+    display: flex;
+    flex-direction: row;
+  }
+   
+   .offerr
+  {
+    margin-left: 100px;
+  } 
+
+  .oimg
+  {
+    width: 69%;
+    height: 40vh;
+    margin-left: 30%;
+  }
