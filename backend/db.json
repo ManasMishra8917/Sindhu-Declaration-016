@@ -388,44 +388,6 @@
       "description": "A stylish and comfortable living sofa with a modern design. It features a plush polyester upholstery in a light beige color.",
       "price": 1299.99
     },
-    [
-  {
-    "id": 44,
-    "category": "lights",
-    "subcategory": "wall lamp",
-    "title": "LED Wall Lamp",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDrMrZtO1Bzm2fJ8rArubRQKjpSA9JQYd-14X9gouet7BsG5zo",
-    "description": "A stylish and energy-efficient LED wall lamp perfect for any room.",
-    "price": 189.99
-  },
-  {
-    "id": 45,
-    "category": "lights",
-    "subcategory": "wall lamp",
-    "title": "Modern Pendant Light",
-    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpUp-qRvff2-iXRTF_nt12C3RF2gFbZCZxt5bStHKE4c8SlTkI",
-    "description": "A sleek and modern pendant light, great for kitchens and dining areas.",
-    "price": 259.99
-  },
-  {
-    "id": 46,
-    "category": "lights",
-    "subcategory": "wall lamp",
-    "title": "Floor Lamp with Reading Light",
-    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReQbQKhfSmzgE0R_RBqH-E6cKztn7aMdBWilBEESnz1mfkDeKX",
-    "description": "A versatile floor lamp with a separate reading light, perfect for living rooms and bedrooms.",
-    "price": 299.99
-  },
-  {
-    "id": 47,
-    "category": "lights",
-    "subcategory": "wall lamp",
-    "title": "Vintage Wall Sconce",
-    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIrAvrp4FskAzYiv4Xcd0UYqkMvnl_xmpH4YXC8y5jc0CsTeUa",
-    "description": "A charming vintage-style wall sconce, adds a touch of elegance to any room.",
-    "price": 149.99
-  },
-  [
     {
       "id": 44,
       "category": "lights",
@@ -463,78 +425,76 @@
       "price": 149.99
     },
     {
-        "id": 48,
-        "category": "lights",
-        "subcategory": "Table Lamps",
-        "title": "LED Table Lamp",
-        "image": "https://www.modishstore.com/cdn/shop/products/843340_1920x_db14997a-a007-4e18-84bc-9698e94f0763.jpg?v=1630143036&width=533",
-        "description": "A stylish and energy-efficient LED table lamp perfect for any room.",
-        "price": 189.99
-      },
-      {
-        "id": 49,
-        "category": "lights",
-        "subcategory": "Table Lamps",
-        "title": "Safavieh Table Lamp",
-        "image": "https://www.modishstore.com/cdn/shop/products/Safavieh-LIT4125B-SET2-OFF-ROOM-MAIN.jpg?v=1630143035&width=533",
-        "description": "A beautifully designed table lamp with a decorative shade.",
-        "price": 259.99
-      },
-      {
-        "id": 50,
-        "category": "lights",
-        "subcategory": "Table Lamps",
-        "title": "Modern Table Lamp",
-        "image": "https://www.modishstore.com/cdn/shop/products/EEI-2931_5_-min.jpg?v=1630067410&width=533",
-        "description": "A sleek and modern table lamp, great for desks and bedside tables.",
-        "price": 199.99
-      },
-      {
-        "id": 51,
-        "category": "lights",
-        "subcategory": "Table Lamps",
-        "title": "Industrial Table Lamp",
-        "image": "https://www.modishstore.com/cdn/shop/products/s0019-8033.jpg?v=1617273483&width=533",
-        "description": "A stylish industrial-style table lamp, adds a touch of character to any room.",
-        "price": 149.99
-      },
-      {
-        "id": 52,
-        "category": "lights",
-        "subcategory": "Table Lamps",
-        "title": "Vintage Table Lamp",
-        "image": "https://www.modishstore.com/cdn/shop/products/s0019-8032.jpg?v=1617273482&width=533",
-        "description": "A charming vintage-style table lamp, perfect for adding a touch of elegance to your space.",
-        "price": 129.99
-      },
-      {
-        "id": 53,
-        "category": "lights",
-        "subcategory": "Table Lamps",
-        "title": "Contemporary Table Lamp",
-        "image": "https://www.modishstore.com/cdn/shop/products/91JCnJ70Z4L._AC_SL1500__1.jpg?v=1630143034&width=533",
-        "description": "A contemporary table lamp with a minimalist design, great for modern spaces.",
-        "price": 169.99
-      },
-      {
-        "id": 54,
-        "category": "lights",
-        "subcategory": "Table Lamps",
-        "title": "Natural Wood Table Lamp",
-        "image": "https://www.modishstore.com/cdn/shop/products/91YbkH-rLCL._AC_SL1500.jpg?v=1630143032&width=533",
-        "description": "A natural wood table lamp, adds warmthand a touch of nature to your space.",
-        "price": 179.99
-      },
-      {
-        "id": 55,
-        "category": "lights",
-        "subcategory": "Table Lamps",
-        "title": "Mid-Century Modern Table Lamp",
-        "image": "https://www.modishstore.com/cdn/shop/products/LIT4124C-SET2-2_1024x1024_039c44ab-00bf-4bc2-beee-ce456096da15.jpg?v=1630143035&width=533",
-        "description": "A mid-century modern table lamp, perfect for adding a touch of retro style to your space.",
-        "price": 229.99
-      }
-  ]
-]
+      "id": 48,
+      "category": "lights",
+      "subcategory": "Table Lamps",
+      "title": "LED Table Lamp",
+      "image": "https://www.modishstore.com/cdn/shop/products/843340_1920x_db14997a-a007-4e18-84bc-9698e94f0763.jpg?v=1630143036&width=533",
+      "description": "A stylish and energy-efficient LED table lamp perfect for any room.",
+      "price": 189.99
+    },
+    {
+      "id": 49,
+      "category": "lights",
+      "subcategory": "Table Lamps",
+      "title": "Safavieh Table Lamp",
+      "image": "https://www.modishstore.com/cdn/shop/products/Safavieh-LIT4125B-SET2-OFF-ROOM-MAIN.jpg?v=1630143035&width=533",
+      "description": "A beautifully designed table lamp with a decorative shade.",
+      "price": 259.99
+    },
+    {
+      "id": 50,
+      "category": "lights",
+      "subcategory": "Table Lamps",
+      "title": "Modern Table Lamp",
+      "image": "https://www.modishstore.com/cdn/shop/products/EEI-2931_5_-min.jpg?v=1630067410&width=533",
+      "description": "A sleek and modern table lamp, great for desks and bedside tables.",
+      "price": 199.99
+    },
+    {
+      "id": 51,
+      "category": "lights",
+      "subcategory": "Table Lamps",
+      "title": "Industrial Table Lamp",
+      "image": "https://www.modishstore.com/cdn/shop/products/s0019-8033.jpg?v=1617273483&width=533",
+      "description": "A stylish industrial-style table lamp, adds a touch of character to any room.",
+      "price": 149.99
+    },
+    {
+      "id": 52,
+      "category": "lights",
+      "subcategory": "Table Lamps",
+      "title": "Vintage Table Lamp",
+      "image": "https://www.modishstore.com/cdn/shop/products/s0019-8032.jpg?v=1617273482&width=533",
+      "description": "A charming vintage-style table lamp, perfect for adding a touch of elegance to your space.",
+      "price": 129.99
+    },
+    {
+      "id": 53,
+      "category": "lights",
+      "subcategory": "Table Lamps",
+      "title": "Contemporary Table Lamp",
+      "image": "https://www.modishstore.com/cdn/shop/products/91JCnJ70Z4L._AC_SL1500__1.jpg?v=1630143034&width=533",
+      "description": "A contemporary table lamp with a minimalist design, great for modern spaces.",
+      "price": 169.99
+    },
+    {
+      "id": 54,
+      "category": "lights",
+      "subcategory": "Table Lamps",
+      "title": "Natural Wood Table Lamp",
+      "image": "https://www.modishstore.com/cdn/shop/products/91YbkH-rLCL._AC_SL1500.jpg?v=1630143032&width=533",
+      "description": "A natural wood table lamp, adds warmthand a touch of nature to your space.",
+      "price": 179.99
+    },
+    {
+      "id": 55,
+      "category": "lights",
+      "subcategory": "Table Lamps",
+      "title": "Mid-Century Modern Table Lamp",
+      "image": "https://www.modishstore.com/cdn/shop/products/LIT4124C-SET2-2_1024x1024_039c44ab-00bf-4bc2-beee-ce456096da15.jpg?v=1630143035&width=533",
+      "description": "A mid-century modern table lamp, perfect for adding a touch of retro style to your space.",
+      "price": 229.99
+    }
   ]
 }
